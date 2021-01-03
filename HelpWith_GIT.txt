@@ -1,0 +1,11 @@
+git init
+git status to check
+git add .
+git commit -m "some comments"
+git remote add origin https://github.com/skerdi-design/Movie-Catalog.git
+git push -u origin master
+//to push to the git
+//now to pull
+git init (to the folder)
+git pull the link from github
+and the same as above
